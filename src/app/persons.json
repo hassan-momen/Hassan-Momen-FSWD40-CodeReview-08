@@ -1,0 +1,91 @@
+[{
+  "image":"../../assets/boy.jpg",
+  "name":"Jack",
+  "Surname":"bauer",
+  "heart":"../../assets/like.png",
+  "likes":6,
+  "Age":21,
+  "category":"Male",
+  "relation":false
+},{
+  "image":"../../assets/girl1.jpg",
+  "name":"Sara",
+  "Surname":"siol",
+  "heart":"../../assets/like.png",
+  "likes":5,
+  "Age":28,
+  "category":"Female",
+  "relation":true
+},{
+  "image":"../../assets/boy2.jpg",
+  "name":"sam",
+  "Surname":"smith",
+  "heart":"../../assets/like.png",
+  "likes":2,
+  "Age":23,
+  "category":"Male",
+  "relation":false
+},{
+  "image":"../../assets/girl2.jpg",
+  "name":"nancy",
+  "Surname":"lorinc",
+  "heart":"../../assets/like.png",
+  "likes":7,
+  "Age":25,
+  "category":"Female",
+  "relation":true
+},{
+  "image":"../../assets/boy3.jpg",
+  "name":"Michael",
+  "Surname":"Smith",
+  "heart":"../../assets/like.png",
+  "likes":6,
+  "Age":26,
+  "category":"Male",
+  "relation":false
+},{
+  "image":"../../assets/girl3.jpg",
+  "name":"Emma ",
+  "Surname":"Stone",
+  "heart":"../../assets/like.png",
+  "likes":12,
+  "Age":22,
+  "category":"Female",
+  "relation":true
+},{
+  "image":"../../assets/girl4.jpg",
+  "name":"Cameron",
+  "Surname":"Diaz",
+  "heart":"../../assets/like.png",
+  "likes":3,
+  "Age":24,
+  "category":"Female",
+  "relation":true
+},{
+  "image":"../../assets/boy4.jpg",
+  "name":"Dani",
+  "Surname":"hisny",
+  "heart":"../../assets/like.png",
+  "likes":9,
+  "Age":29,
+  "category":"Male",
+  "relation":true
+},{
+  "image":"../../assets/girl5.jpg",
+  "name":"jasmin",
+  "Surname":"hosni",
+  "heart":"../../assets/like.png",
+  "likes":5,
+  "Age":19,
+  "category":"Female",
+  "relation":true
+},{
+  "image":"../../assets/boy5.jpg",
+  "name":"hussam",
+  "Surname":"khalifa",
+  "heart":"../../assets/like.png",
+  "likes":2,
+  "Age":22,
+  "category":"Male",
+  "relation":true
+}]

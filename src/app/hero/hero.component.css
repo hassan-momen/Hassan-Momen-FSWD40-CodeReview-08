@@ -1,0 +1,19 @@
+#our-website {
+	background:url("computer-1245714_1280.jpg");
+	background-size: cover;
+	height: 500px;
+	border: 1px solid #832693;
+}
+
+.text {
+	color: white;
+	text-align: center;
+	padding-top: 150px;
+	font-size: 70px;
+}
+
+.text2 {
+	color: white;
+	text-align: center;
+	font-size: 70px;
+}

@@ -1,0 +1,71 @@
+[{
+  "image":"CR5/boy.jpg",
+  "name":"Jack",
+  "Surname":"bauer",
+  "heart":"images/like.png",
+  "likes":6,
+  "Age": 21
+},{
+  "image":"images/girl1.jpg",
+  "name":"Sara",
+  "Surname":"siol",
+  "heart":"images/like.png",
+  "likes":5,
+  "Age": 28
+},{
+  "image":"images/boy2.jpg",
+  "name":"sam",
+  "Surname":"smith",
+  "heart":"images/like.png",
+  "likes":2,
+  "Age": 23
+},{
+  "image":"images/girl2.jpg",
+  "name":"nancy",
+  "Surname":"lorinc",
+  "heart":"images/like.png",
+  "likes":7,
+  "Age": 25
+},{
+  "image":"images/boy3.jpg",
+  "name":"Michael",
+  "Surname":"Smith",
+  "heart":"images/like.png",
+  "likes":6,
+  "Age": 26
+},{
+  "image":"images/girl3.jpg",
+  "name":"Emma ",
+  "Surname":"Stone",
+  "heart":"images/like.png",
+  "likes":12,
+  "Age": 22
+},{
+  "image":"images/girl4.jpg",
+  "name":"Cameron",
+  "Surname":"Diaz",
+  "heart":"images/like.png",
+  "likes":3,
+  "Age": 24
+},{
+  "image":"images/boy4.jpg",
+  "name":"Dani",
+  "Surname":"hisny",
+  "heart":"images/like.png",
+  "likes":9,
+  "Age": 29
+},{
+  "image":"images/girl5.jpg",
+  "name":"jasmin",
+  "Surname":"hosni",
+  "heart":"images/like.png",
+  "likes":5,
+  "Age": 19
+},{
+  "image":"images/boy5.jpg",
+  "name":"hussam",
+  "Surname":"khalifa",
+  "heart":"images/like.png",
+  "likes":2,
+  "Age": 22
+}];
